@@ -1,10 +1,7 @@
 body{
     font-family: 'Poppins';
 }
-#modal{
-width: 800px;
-    height: 400px;
-}
+
 .cabecalho{
     
     display:flex;
@@ -135,8 +132,8 @@ width: 800px;
 
 .modal iframe{
     border-width: 0;
-    width: 640px;
-    height: 360px;
+    width: 800px;
+    height: 600px;
 }
 
 .modal.aberto {
