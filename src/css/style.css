@@ -1,7 +1,10 @@
 body{
     font-family: 'Poppins';
 }
-
+#modal{
+width: 800px;
+    height: 400px;
+}
 .cabecalho{
     
     display:flex;
